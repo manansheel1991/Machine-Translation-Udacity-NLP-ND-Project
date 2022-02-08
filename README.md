@@ -13,12 +13,15 @@ I completed this project in the NLP Nanodegree. In it, I trained different types
 ## Model Architecture Images
 
 Simple RNN Model
+
 ![image](rnn.png)
 
 Embedding RNN Model
+
 ![image](embedding.png)
 
 Bidirectional RNN Model
+
 ![image](bidirectional.png)
 
 
