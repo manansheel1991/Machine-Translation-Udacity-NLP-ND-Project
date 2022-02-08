@@ -10,6 +10,18 @@ I completed this project in the NLP Nanodegree. In it, I trained different types
 4. An Encoder-Decoder Type of Model
 5. A custom model that makes use of the components present in all the above 4 models
 
+## Model Architecture Images
+
+Simple RNN Model
+![image](rnn.png)
+
+Embedding RNN Model
+![image](embedding.png)
+
+Bidirectional RNN Model
+![image](bidirectional.png)
+
+
 ## Files
 
 The file 'machine_translation.ipynb' contains the complete project in detail
